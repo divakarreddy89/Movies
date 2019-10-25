@@ -1,11 +1,12 @@
 import React from "react";
-// import Movies from "./Movies/Movies";
+//import Movies from "./Movies/Movies";
+import Calculator from "./Calculator/Calculator.jsx";
 function App() {
   return (
     <div className="App">
       {
-        // <Movies />
-        <h1>New concepts</h1>
+        <Calculator />
+        //<Movies />
       }
     </div>
   );
